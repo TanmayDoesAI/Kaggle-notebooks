@@ -6,7 +6,9 @@
 
 ## Competitions
 
-| Competition Name                           | Accuracy | Kaggle Notebook Link                                                | Kaggle Competition Link                                  |
-|-------------------------------------------|---------|--------------------------------------------------------------------|---------------------------------------------------------|
-| Titanic - Machine Learning from Disaster | 78.468% | [Notebook](https://www.kaggle.com/code/tanmay9516/titanic-78-468-ensemble) | [Competition](https://www.kaggle.com/competitions/titanic) |
+| Competition Name                           | Accuracy | Score   | Kaggle Notebook Link                                                | Kaggle Competition Link                                  |
+|-------------------------------------------|---------|---------|--------------------------------------------------------------------|---------------------------------------------------------|
+| Titanic - Machine Learning from Disaster | 78.468% |   NaN   | [Notebook](https://www.kaggle.com/code/tanmay9516/titanic-78-468-ensemble) | [Competition](https://www.kaggle.com/competitions/titanic) |
+| Forecasting Mini-Course Sales              |   NaN   | 38.081  | [Notebook](https://www.kaggle.com/tanmay9516/forecasting-mini-course-sales-38-081) | [Competition](https://www.kaggle.com/competitions/playground-series-s3e19) |
+
 
