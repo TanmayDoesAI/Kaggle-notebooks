@@ -12,3 +12,4 @@
 | Forecasting Mini-Course Sales              |   NaN   | 38.081  | [Notebook](https://www.kaggle.com/tanmay9516/forecasting-mini-course-sales-38-081) | [Competition](https://www.kaggle.com/competitions/playground-series-s3e19) |
 
 
+- Here is my kaggle profile if you would like to see more [Tanmay](https://www.kaggle.com/tanmay9516), it ain't much but it's honest work 🫡
